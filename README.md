@@ -1,5 +1,6 @@
 # Demonstration of Clustering Vert.x Applications With Infinispan Cluster Manager
 
+Original source: (https://github.com/InfoSec812/summit-lightning-cluster)
 ## Prerequisites
 * Maven >= 3.3.9
 * Java >= 8
